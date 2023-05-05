@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdallah1hany
-- 👀 I’m interested in web development , react & js
-- 🌱 I’m currently in React & node js
+- 👀 I’m interested in web development ,angular,react & js
+- 🌱 I’m currently in React & Angular js
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me  => abdallah1hany@gmail.com
 
